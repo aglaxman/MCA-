@@ -1,0 +1,38 @@
+*{
+    margin : 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size:xx-large;
+    color: lightslategray;
+}
+
+form{
+    text-align: center;
+    margin-top: 20px;
+    vertical-align: top;
+}
+
+label{
+    margin-right: 5px;
+    margin-bottom: 50px;
+}
+
+input{
+    margin-left: 20px;
+    margin-top: 10px;
+    vertical-align: baseline;
+}
+
+textarea{
+    margin-top: 10px;
+}
+ button{
+    height: 20px;
+    width: 100px;
+
+ }
